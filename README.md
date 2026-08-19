@@ -11,10 +11,6 @@ Bem-vindo ao meu perfil! Sou estudante de desenvolvimento web, focado em dominar
 * **Editor:** Visual Studio Code
 * **Controle de Versão:** Git e GitHub
 
-## 📊 Minhas Estatísticas
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do Stanley" />
-</p>
 
 ## 📫 Como falar comigo
 
